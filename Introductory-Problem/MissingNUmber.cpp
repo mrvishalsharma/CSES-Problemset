@@ -26,9 +26,7 @@ int main(){
 
 c_p_c();
 
-    // ll t;
-    // cin>>t;
-    // while(t--){
+ 
 ll n;
 cin>>n;
 ll arr[n];
@@ -42,9 +40,6 @@ for(int i=0; i<n-1; i++){
 }
 
 cout<<((n*(n+1)/2)-ans);
-
-
-//}
 
 return 0;
 
