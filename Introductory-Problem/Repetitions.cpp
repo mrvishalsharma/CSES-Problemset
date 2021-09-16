@@ -26,9 +26,6 @@ int main(){
 
 c_p_c();
 
-// ll t;
-// cin>>t;
-// while(t--){
 
     string str;
     cin >> str;
@@ -50,8 +47,6 @@ c_p_c();
     ans = max(ans, r - l);
     cout << ans << endl;
  
-
-//}
 
 return 0;
 
