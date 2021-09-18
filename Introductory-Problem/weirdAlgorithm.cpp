@@ -26,9 +26,6 @@ int main(){
 
 c_p_c();
 
-    // ll t;
-    // cin>>t;
-    // while(t--){
 ll n;
 cin>>n;
 cout<<n<<" ";
@@ -41,9 +38,6 @@ while(n!=1){
     }
     cout<<n<<" ";
 }
-
-
-//}
 
 return 0;
 
